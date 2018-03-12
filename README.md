@@ -1,4 +1,6 @@
 # senado
 Web project based on Tornado
 
-# Hello word!
+# Installation
+pip install tornado
+pip install TorMySQL
